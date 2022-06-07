@@ -1,13 +1,13 @@
-package com.denisbondd111.webChat;
+package com.denisbondd111.messenger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebChatApplication {
+public class MessengerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WebChatApplication.class, args);
+		SpringApplication.run(MessengerApplication.class, args);
 	}
 
 }

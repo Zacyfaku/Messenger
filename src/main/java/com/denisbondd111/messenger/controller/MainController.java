@@ -1,6 +1,6 @@
-package com.denisbondd111.webChat.controller;
+package com.denisbondd111.messenger.controller;
 
-import com.denisbondd111.webChat.entity.User;
+import com.denisbondd111.messenger.entity.User;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

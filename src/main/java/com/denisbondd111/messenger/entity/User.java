@@ -1,4 +1,4 @@
-package com.denisbondd111.webChat.entity;
+package com.denisbondd111.messenger.entity;
 
 import java.util.Objects;
 

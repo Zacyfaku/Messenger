@@ -9,10 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.denisbondd111</groupId>
-	<artifactId>webChat</artifactId>
+	<artifactId>messenger</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>WebChat</name>
-	<description>Sprin RESTfull and WebSocket chat</description>
+	<name>Messenger</name>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
